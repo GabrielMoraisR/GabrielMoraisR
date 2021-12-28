@@ -1,7 +1,8 @@
-Olá eu sou o Gabriel de Morais , seja bem vindo!!! 
+Hello my name is Gabriel de Morais 
 
-- 🌱 Atualmente estou estudando : HTML, CSS, JavaScript 
-- Futuro Fullstack 
+- FullStack Developer
+- HTML , CSS , JavaScript , NodeJS , React 
+
  <div>
   <a href="https://github.com/GabrielMoraisR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMoraisR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
