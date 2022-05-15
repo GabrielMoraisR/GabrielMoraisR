@@ -1,7 +1,6 @@
 Hello my name is Gabriel de Morais 
 
-- FullStack Developer
-- HTML , CSS , JavaScript , NodeJS , React 
+My skills include quick learning, problem solving, responsive design principles, website optimization and code organization methods. I have knowledge in Javascript, Typescript , React, React Native, NodeJS ,HTML , CSS, Tailwind CSS , PHP, Python , Git ,Github and Gitlab , Docker, Jira , Yarn . I’m still gripping enthusiastically to any other programming languages, frameworks or principles that I can integrate into the web.
 
  <div>
   <a href="https://github.com/GabrielMoraisR">
