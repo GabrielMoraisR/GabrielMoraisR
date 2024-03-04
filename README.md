@@ -70,7 +70,7 @@ frameworks or principles that I can integrate into the web.
   </a>
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"
+      src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
       alt="NodeJs"
       width="40"
       height="40"
