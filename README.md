@@ -1,4 +1,4 @@
-Hello my name is Gabriel de Morais My skills include quick learning, problem
+[Hello my name is Gabriel de Morais My skills include quick learning, problem
 solving, responsive design principles, website optimization and code
 organization methods. I have knowledge in
 <strong>Java, Javascript, Typescript , React, React Native, NodeJS ,HTML , CSS,
@@ -44,6 +44,14 @@ frameworks or principles that I can integrate into the web.
       height="40"
     />
   </a>
+    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
+      alt="NodeJs"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -64,14 +72,6 @@ frameworks or principles that I can integrate into the web.
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
       alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
-      alt="NodeJs"
       width="40"
       height="40"
     />
@@ -166,3 +166,4 @@ frameworks or principles that I can integrate into the web.
   /></a>
 </p>
 
+](url)
