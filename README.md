@@ -20,11 +20,7 @@ frameworks or principles that I can integrate into the web.
     src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielMoraisR&theme=dracula"
     alt="GabrielMoraisR"
   />
-</div>
-
-<div style="display: inline_block">
-  <br />
-  <img
+   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMoraisR&layout=compact&theme=dracula"
   />
