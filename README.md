@@ -12,7 +12,7 @@ frameworks or principles that I can integrate into the web.
   <img
     align="center"
     width="47.2%"
-    src="https://github-readme-stats.vercel.app/api?username=GabrielMoraisR&count_private=true&show_icons=true&theme=defaut"
+    src="https://github-readme-stats.vercel.app/api?username=GabrielMoraisR&count_private=true&show_icons=true&theme=Dracula"
   />
   <img
     align="center"
@@ -26,7 +26,7 @@ frameworks or principles that I can integrate into the web.
   <br />
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMoraisR&layout=compact&theme=defaut"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMoraisR&layout=compact&theme=Dracula"
   />
 </div>
 
