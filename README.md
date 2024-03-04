@@ -37,16 +37,8 @@ frameworks or principles that I can integrate into the web.
   </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"
+      src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"
       alt="ReactJs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"
-      alt="JavaScript"
       width="40"
       height="40"
     />
