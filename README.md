@@ -43,14 +43,6 @@ frameworks or principles that I can integrate into the web.
       height="40"
     />
   </a>
-  <a href="https://www.oracle.com/br/java/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"
-      alt="Java"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
