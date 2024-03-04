@@ -6,7 +6,7 @@ organization methods. I have knowledge in
   Tailwind CSS , PHP, Python , Git ,Github and Gitlab , Docker, Jira ,
   Yarn</strong
 >
-. I’m still gripping enthusiastically to any other programming languages,
+I’m still gripping enthusiastically to any other programming languages,
 frameworks or principles that I can integrate into the web.
 
 ## ⚡ GitHub statistics
