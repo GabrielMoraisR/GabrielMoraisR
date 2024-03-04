@@ -92,6 +92,14 @@ frameworks or principles that I can integrate into the web.
       height="40"
     />
   </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"
+      alt="Docker"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
