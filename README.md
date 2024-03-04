@@ -68,14 +68,14 @@ frameworks or principles that I can integrate into the web.
       height="40"
     />
   </a>
-<!--   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
-      alt="gcp"
+      src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"
+      alt="NodeJs"
       width="40"
       height="40"
     />
-  </a> -->
+  </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
