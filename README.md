@@ -17,7 +17,7 @@ frameworks or principles that I can integrate into the web.
   <img
     align="center"
     width="50%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielMoraisR&"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielMoraisR&theme=dracula"
     alt="GabrielMoraisR"
   />
 </div>
