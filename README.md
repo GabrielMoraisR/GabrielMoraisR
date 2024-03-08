@@ -153,5 +153,3 @@ frameworks or principles that I can integrate into the web.
       width="40"
   /></a>
 </p>
-
-](url)
