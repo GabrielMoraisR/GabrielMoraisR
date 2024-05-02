@@ -1,4 +1,4 @@
-[Hello my name is Gabriel de Morais My skills include quick learning, problem
+Hello my name is Gabriel de Morais My skills include quick learning, problem
 solving, responsive design principles, website optimization and code
 organization methods. I have knowledge in
 <strong>Java, Javascript, Typescript , React, React Native, NodeJS ,HTML , CSS,
