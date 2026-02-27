@@ -1,155 +1,87 @@
-Hello my name is Gabriel de Morais My skills include quick learning, problem
-solving, responsive design principles, website optimization and code
-organization methods. I have knowledge in
-<strong>Java, Javascript, Typescript , React, React Native, NodeJS ,HTML , CSS,
-  Tailwind CSS , PHP, Python , Git ,Github and Gitlab , Docker, Jira ,
-  Yarn</strong>
-I’m still gripping enthusiastically to any other programming languages,
-frameworks or principles that I can integrate into the web.
+![](https://komarev.com/ghpvc/?username=GabrielMoraisR&color=006bed)
 
-## ⚡ GitHub statistics
-<div style="display: inline_block">
-  <img
-    align="center"
-    width="47.2%"
-    src="https://github-readme-stats.vercel.app/api?username=GabrielMoraisR&count_private=true&show_icons=true&theme=dracula"
-  />
-  <img
-    align="center"
-    width="50%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielMoraisR&theme=dracula"
-    alt="GabrielMoraisR"
-  />
-   <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMoraisR&layout=compact&theme=dracula"
-  />
+# 🚀 Gabriel de Morais
+
+## 👨‍💻 Sobre mim
+
+- 🤔 Explorando novas tecnologias e criando soluções escaláveis.
+- 💻 Desenvolvedor Full Stack com foco em performance e boas práticas.
+- 🧠 Forte em resolução de problemas e organização de código.
+- 🌱 Sempre aprendendo mais sobre arquitetura de software e sistemas distribuídos.
+- 🚀 Apaixonado por backend, APIs e aplicações modernas.
+
+---
+
+# 🛠 Minhas Skills
+
+## 💻 Aplicações & Linguagens
+
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![COBOL](https://img.shields.io/badge/-COBOL-333333?style=flat)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+
+---
+
+## ⚛️ Frameworks & Bibliotecas
+
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwind-css)
+
+---
+
+## 🗄 Banco de Dados
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
+
+---
+
+## 🔧 DevOps & Ferramentas
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=GabrielMoraisR&show_icons=true&theme=dracula&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMoraisR&layout=compact&theme=dracula"/>
+
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"
-      alt="TypeScript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"
-      alt="ReactJs"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
-      alt="NodeJs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-      alt="csharp"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"
-      alt="Docker"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-      alt="oracle"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/gabrielmoraisr/" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="lricardo27"
-      height="30"
-      width="40"
-  /></a>
-</p>
+# 🧠 Linguagens Mais Usadas (Mapa de Porcentagem)
+
+<div align="center">
+
+<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMoraisR&layout=donut&theme=dracula"/>
+
+</div>
+
+---
+
+# 🌎 Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-Gabriel%20de%20Morais-006bed?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielmoraisr/)](https://www.linkedin.com/in/gabrielmoraisr/)
+[![Gmail Badge](https://img.shields.io/badge/-gabriel.rocha@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![GitHub](https://img.shields.io/github/followers/GabrielMoraisR?label=follow&style=social)](https://github.com/GabrielMoraisR)
