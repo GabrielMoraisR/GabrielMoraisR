@@ -9,7 +9,7 @@ Professional with solid experience in building scalable web and mobile applicati
 ### 📊 Top Languages & Stats
 
 <div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMoraisR&layout=compact&theme=dracula&hide_border=false&langs_count=10&card_width=600" />
+  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMoraisR&layout=compact&theme=dracula&hide_border=false&langs_count=10" />
 </div>
 
 <br/>
@@ -30,7 +30,7 @@ Professional with solid experience in building scalable web and mobile applicati
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Low-Level & Backend**
+**Low-Level & Core**
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![COBOL](https://img.shields.io/badge/COBOL-005C92?style=for-the-badge&logo=micro-focus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -43,14 +43,6 @@ Professional with solid experience in building scalable web and mobile applicati
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 🛡️ Areas of Expertise
-* 🏗️ **Architecture:** Developing robust and maintainable backend services.
-* 📜 **Critical Systems:** Knowledge in **C** and **COBOL** for performance-driven environments.
-* 🤖 **Automation:** Optimizing workflows and repetitive tasks.
-* 🔐 **Security:** Implementing security-first principles in every project.
 
 ---
 
